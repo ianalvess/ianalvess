@@ -135,27 +135,6 @@ I'm a **Computational Biologist & Bioinformatics Engineer** based in Braga, Port
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ianalvess&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=12c2e9&icon_color=7ec8e3&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianalvess&layout=compact&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=12c2e9&text_color=c9d1d9&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianalvess&theme=github-dark-blue&background=0d1117&border=21262d&stroke=12c2e9&ring=12c2e9&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9" />
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github.com/ianalvess/ianalvess/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
 ## Connect with Me
 
 <div align="center">
