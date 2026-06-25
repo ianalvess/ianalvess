@@ -3,12 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3443,100:12c2e9&height=200&section=header&text=Ian%20Alves%20Machado&fontSize=42&fontColor=e8f4fd&fontAlignY=38&desc=Bioinformatics%20%7C%20Computational%20Biology%20%7C%20Data%20Science&descColor=7ec8e3&descAlignY=60&animation=fadeIn" />
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=800&color=12C2E9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=🧬+Protein+Engineering+%7C+PyRosetta+Pipelines;🦠+Metagenomics+%7C+NGS+%7C+Microbiome+Analysis;📊+Machine+Learning+for+Biology+%7C+Biomarker+Discovery" alt="Typing SVG" />
-  </a>
-</div>
-
 <br/>
 
 <div align="center">
