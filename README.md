@@ -15,27 +15,23 @@
   <img src="https://komarev.com/ghpvc/?username=ianalvess&style=for-the-badge&color=0f3443&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/badge/Focus-Bioinformatics-12c2e9?style=for-the-badge&logo=moleculer&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Braga%2C%20Portugal-00b4d8?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ecc71?style=for-the-badge" />
 </div>
 
 ---
 
-## 👤 About Me
+##  About Me
 
-```python
-ian = {
-    "name"     : "Ian Alves Machado",
-    "role"     : "Computational Biologist & Bioinformatics Engineer",
-    "focus"    : ["Protein Engineering", "Enzyme Design", "NGS Pipelines", "Microbiome Analysis"],
-    "stack"    : ["PyRosetta", "Docker", "Python", "BioPython", "PyTorch", "HuggingFace"],
-    "current"  : "Mutagenesis pipelines for CYP450 enzymes + AI-driven metagenomics",
-    "interests": ["P450 Enzymes", "Aptamer Design", "ML for Biology", "Structural Proteomics"],
-}
-```
+I'm a **Computational Biologist & Bioinformatics Engineer** based in Braga, Portugal, focused on building robust, reproducible pipelines at the intersection of structural biology, machine learning, and data science.
+
+
+- **Focus:** Protein Engineering · Enzyme Design · NGS Pipelines · Microbiome Analysis  
+- **Stack:** PyRosetta · Docker · Python · BioPython · PyTorch · HuggingFace  
+- **Interests:** Metagenomics · Aptamer Design · ML for Biology · Structural Proteomics  
+- **Location:** Braga, Portugal · Open to remote & relocation
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
   <tr>
@@ -45,21 +41,20 @@ ian = {
   </tr>
   <tr>
     <td>
-      <b><a href="https://github.com/ianalvess/AIMetaPipeline">🦠 AIMetaPipeline</a></b><br/>
+      <b><a href="https://github.com/ianalvess/AIMetaPipeline"> AIMetaPipeline</a></b><br/>
       Automated metagenomics pipeline with local <b>AI agents</b> for taxonomic and functional result interpretation.
     </td>
     <td>
       <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
       <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td>
-      <b><a href="https://github.com/ianalvess/gut-biomarkers-prediction">🧫 gut-biomarkers-prediction</a></b><br/>
+      <b><a href="https://github.com/ianalvess/gut-biomarkers-prediction"> gut-biomarkers-prediction</a></b><br/>
       ML pipeline for <b>Crohn's Disease</b> classification and fecal calprotectin prediction from gut microbial abundance profiles.
     </td>
     <td>
@@ -73,7 +68,7 @@ ian = {
   </tr>
   <tr>
     <td>
-      <b><a href="https://github.com/ianalvess/BreastCancerAnalysis">🎗️ BreastCancerAnalysis</a></b><br/>
+      <b><a href="https://github.com/ianalvess/BreastCancerAnalysis"> BreastCancerAnalysis</a></b><br/>
       Breast cancer diagnosis prediction through a complete data science workflow — EDA, feature engineering, and model benchmarking.
     </td>
     <td>
@@ -88,7 +83,7 @@ ian = {
   </tr>
   <tr>
     <td>
-      <b><a href="https://github.com/ianalvess/Cyber_Security_Attacks_Dataset_Analysis">🔐 Cyber Security Analysis</a></b><br/>
+      <b><a href="https://github.com/ianalvess/Cyber_Security_Attacks_Dataset_Analysis"> Cyber Security Analysis</a></b><br/>
       Exploration and statistical profiling of cybersecurity attack datasets using data science tools and visualisation techniques.
     </td>
     <td>
@@ -103,11 +98,11 @@ ian = {
   </tr>
 </table>
 
-> 🚧 More projects currently in production — stay tuned.
+>  More projects currently in production — stay tuned.
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -115,7 +110,6 @@ ian = {
 
 <img src="https://img.shields.io/badge/PyRosetta-0078a7?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/BioPython-2d6a4f?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Snakemake-3a86ff?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/RDKit-E53935?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/BLAST-ff9f1c?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/HMMER-12c2e9?style=for-the-badge&logoColor=white" />
@@ -141,7 +135,7 @@ ian = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ianalvess&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=12c2e9&icon_color=7ec8e3&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" />
@@ -154,7 +148,7 @@ ian = {
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img src="https://github.com/ianalvess/ianalvess/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -162,7 +156,7 @@ ian = {
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
 <div align="center">
   <a href="https://github.com/ianalvess" target="_blank">
@@ -171,7 +165,7 @@ ian = {
   <a href="https://www.linkedin.com/in/ianalvess" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ianalvess-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ian@example.com" target="_blank">
+  <a href="mailto:ianalvesmachado@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
