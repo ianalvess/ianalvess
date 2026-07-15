@@ -77,18 +77,17 @@ I'm a **Computational Biologist & Bioinformatics Engineer** based in Braga, Port
   </tr>
   <tr>
     <td>
-      <b><a href="https://github.com/ianalvess/Cyber_Security_Attacks_Dataset_Analysis"> Cyber Security Analysis</a></b><br/>
-      Exploration and statistical profiling of cybersecurity attack datasets using data science tools and visualisation techniques.
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-    </td>
+     <b><a href="https://github.com/ianalvess/RosettaMutScan"> RosettaMutScan</a></b><br/>
+Dockerized pipeline for alanine scanning and mutational saturation of enzyme hotspots using PyRosetta.
+</td>
+<td>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</td>
+<td>
+  <img src="https://img.shields.io/badge/PyRosetta-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</td>
+
   </tr>
 </table>
 
